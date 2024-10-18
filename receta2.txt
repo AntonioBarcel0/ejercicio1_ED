@@ -1,4 +1,12 @@
 ESTO ES LA RECETA 2
 
-ggggggggg
-xxxxxxxxxxxxxxx
+=======
+sandwich de jamon con tomate
+
+corta el pan 
+corta los tomates
+echa aceite en el pan
+pon el jamon 
+y pon los tomates
+ya listo tu sandwich
+>>>>>>> 3095a2669de74dd0399839ee0f59c26cd1cc00dc
